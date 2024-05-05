@@ -152,5 +152,5 @@ cython_debug/
 #.idea/
 
 /data/insurance.csv
-Insurance Company's data research.ipynb
-git rm Insurance Company's data research.ipynb
+Insurance_Company's_data_research.ipynb
+git --rm Insurance_Company's_data_research.ipynb
